@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../.."
+		},
+		{
+			"path": "../../../../../../../farm-management-web"
+		},
+		{
+			"path": "../../../../../../../farm-management-mobile"
+		}
+	],
+	"settings": {}
+}
